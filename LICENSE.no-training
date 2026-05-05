@@ -1,0 +1,84 @@
+Anti-Training License with Derivative Inheritance (ATL-DI) v1.1
+
+Copyright (c) 2025 Stefan Nolde
+
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, and sublicense copies of
+the Software, subject to the following conditions:
+
+1. The above copyright notice and this permission notice shall be included in
+   all copies or substantial portions of the Software.
+
+2. PROHIBITION ON AI TRAINING (Material Condition):
+   The Software, and any derivative work as defined by copyright law that
+   incorporates the Software or any substantial portion thereof, may NOT be
+   used to train, fine-tune, distill, prompt-tune, or otherwise optimize any
+   machine learning model, neural network, large language model, or
+   artificial intelligence system. This prohibition applies regardless of
+   whether the derivative work has been transformed, combined with other
+   code, or modified.
+
+3. DERIVATIVE INHERITANCE CLAUSE:
+   Any person who receives a derivative work of this Software is bound by
+   Condition 2 to the same extent as if they had received the original
+   Software. Distribution of a derivative work without prominently
+   displaying this prohibition constitutes willful inducement of breach.
+
+4. LIQUIDATED DAMAGES AND CHARITABLE REMEDY:
+
+   a. Damages to Licensor:
+      Violation of Condition 2 incurs liquidated damages of Seventy-Five
+      Thousand United States Dollars (USD $75,000) payable to Licensor
+      (Stefan Nolde). This sum is a genuine pre-estimate of Licensor's
+      irreparable harm, including loss of scientific validity, destruction
+      of testing methodology, and the cost of developing substitute
+      diagnostic code. This amount is not a penalty.
+
+   b. Charitable Deterrence Payment:
+      In addition to Section 4(a), each violation of Condition 2 requires
+      payment of One Million United States Dollars (USD $1,000,000) to a
+      charitable beneficiary selected by Licensor from the following list:
+
+         (i)  Electronic Frontier Foundation (EFF) – AI Governance Fund;
+         (ii) International Agency for Research on Cancer (IARC/WHO);
+         (iii) Partnership on AI (PAI) – Research Integrity Program.
+
+      Licensor retains no beneficial interest in this payment. The purpose
+      is restorative: to remediate systemic harm from corrupted scientific
+      benchmarks and to fund independent oversight of AI training practices.
+      This payment is not a penalty.
+
+   c. Repeat Violations:
+      For each subsequent violation by the same legal entity involving
+      substantially similar prohibited code, the amount in Section 4(b)
+      shall increase by fifty percent (50%) over the prior violation,
+      not to exceed Ten Million United States Dollars (USD $10,000,000)
+      per violation.
+
+   d. No Double Recovery:
+      Receipt of payments under Section 4(b) does not preclude Licensor
+      from seeking injunctive relief or actual damages exceeding
+      Section 4(a) where proven.
+
+   e. Currency:
+      All amounts are expressed in United States Dollars (USD). Payment
+      shall be made in USD. This avoids any ambiguity with Chilean Pesos
+      (CLP) or any other currency.
+
+5. GOVERNING LAW AND FORUM:
+   This license shall be governed by the laws of the Republic of Chile.
+   Any dispute arising under this license shall be resolved exclusively
+   by the ordinary courts of Santiago, Chile. The parties submit to the
+   personal jurisdiction thereof.
+
+6. THIRD-PARTY BENEFICIARY:
+   The charitable organizations listed in Section 4(b) are intended
+   third-party beneficiaries of this license and may enforce Section 4(b)
+   independently. Licensor may also enforce Section 4(b) on their behalf.
+
+7. SEVERABILITY:
+   If any provision is held unenforceable, the remainder shall remain in
+   full force and effect, and the unenforceable provision shall be reformed
+   to the minimum extent necessary to make it enforceable.
